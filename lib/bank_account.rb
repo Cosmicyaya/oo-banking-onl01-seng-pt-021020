@@ -6,4 +6,5 @@ class BankAccount
   
   def name
     @name
+  end
 end
