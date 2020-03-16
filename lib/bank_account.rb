@@ -7,8 +7,4 @@ class BankAccount
   def name
     @name
   end
-  
-  def balance
-    @balance
-  end
 end
