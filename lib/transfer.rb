@@ -29,5 +29,3 @@ end
         @status = "reversed"
       end
     end
-  end
-end
